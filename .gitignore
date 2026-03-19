@@ -1,0 +1,20 @@
+# Node modules (IMPORTANT)
+node_modules/
+
+# Environment variables
+.env
+
+# Logs
+logs/
+*.log
+
+# OS files
+.DS_Store
+Thumbs.db
+
+# Vercel
+.vercel
+
+# Optional: build folders
+dist/
+build/
